@@ -2,3 +2,4 @@ nginx:latest
 redis:latest
 bitnami/minio
 mongo
+bitnami/minio-client
