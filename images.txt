@@ -4,3 +4,4 @@ bitnami/minio
 mongo
 snowdreamtech/frpc
 snowdreamtech/frps
+bitnami/minio-client
