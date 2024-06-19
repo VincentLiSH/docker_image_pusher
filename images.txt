@@ -2,3 +2,5 @@ nginx:latest
 redis:latest
 bitnami/minio
 mongo
+snowdreamtech/frpc
+snowdreamtech/frps
