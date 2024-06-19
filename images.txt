@@ -5,3 +5,4 @@ mongo
 snowdreamtech/frpc
 snowdreamtech/frps
 bitnami/minio-client
+ubuntu
