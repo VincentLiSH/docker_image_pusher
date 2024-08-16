@@ -6,3 +6,4 @@ snowdreamtech/frpc
 snowdreamtech/frps
 bitnami/minio-client
 ubuntu
+traefik:latest
