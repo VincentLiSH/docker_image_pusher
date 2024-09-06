@@ -7,3 +7,5 @@ snowdreamtech/frps
 bitnami/minio-client
 ubuntu
 traefik:latest
+mongo:latest
+
