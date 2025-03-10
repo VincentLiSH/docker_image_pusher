@@ -8,3 +8,4 @@ bitnami/minio-client
 ubuntu
 traefik:latest
 mongo:latest
+dadoum/anisette-v3-server:latest
