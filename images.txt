@@ -14,4 +14,5 @@ pytorch/pytorch:2.0.1-cuda11.7-cudnn8-runtime
 openmmlab/mmdeploy:ubuntu20.04-torch2.0-cuda11.7
 alpine
 minio/minio:latest
-minio/mc:latest
+minio/mc
+bitnami/mc
