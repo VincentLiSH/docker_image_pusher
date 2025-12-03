@@ -17,3 +17,4 @@ mongo:latest
 baserow/baserow:1.34.5
 baserow/baserow:latest
 fanout/pushpin:latest
+ollama/ollama:latest
