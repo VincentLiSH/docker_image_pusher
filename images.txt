@@ -15,3 +15,4 @@ openmmlab/mmdeploy:ubuntu20.04-torch2.0-cuda11.7
 alpine
 minio/minio:latest
 minio/mc:latest
+tesseractshadow/tesseract4re:latest
