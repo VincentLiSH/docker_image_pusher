@@ -20,3 +20,4 @@ fanout/pushpin:latest
 ollama/ollama:latest
 sentence-transformers/embedding-service:latest
 ghcr.io/sentence-transformers/embedding-service:latest
+tesseractshadow/tesseract4re:latest
